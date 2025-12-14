@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255156424192",
+    "project_id": "coral-9d647",
+    "storage_bucket": "coral-9d647.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255156424192:android:43de1e482d6af5effcd2e5",
+        "android_client_info": {
+          "package_name": "com.utas.coral"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJG7tD0QpjH_Ogy-ya_au9cSt6KrH-MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
