@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
 /// AI scorer abstraction.
-/// Replace this with real TFLite implementation later.
+
 class CoralHealthScorer {
   static const List<String> labels = ['Healthy', 'Bleached', 'Dead'];
 
